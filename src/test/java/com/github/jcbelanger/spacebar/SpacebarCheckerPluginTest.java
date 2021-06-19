@@ -1,4 +1,4 @@
-package com.jcbelanger.spacebar;
+package com.github.jcbelanger.spacebar;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
