@@ -95,7 +95,7 @@ public class SpacebarCheckerPlugin extends Plugin {
 					reason = " for unknown reasons";
 				}
 				final String text = String.format(
-						"%s ended the %s spacebar check with run of %d%s.",
+						"%s ended the %s spacebar check with a run of %d%s.",
 						chatMessage.getMessageNode().getName(),
 						chatName(chatType),
 						chatRunCounter.getCount(),
